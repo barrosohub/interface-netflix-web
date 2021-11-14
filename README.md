@@ -1,1 +1,1 @@
-# recriando-interface-netflix
+# Projeto criado durante o Bootcamp "Impulso React Web Developer" via DIO (Digital Innovation One)
