@@ -102,16 +102,6 @@ button svg, button i {
     display: block;
 }
 
-.owl-item.active {
-    zoom: 0.8;
-}
-
-.owl-item {
-    zoom: 0.8;
-}
-
-
-
 
 @media (max-width: 800px) {
     .container {
@@ -124,7 +114,7 @@ button svg, button i {
     }
 
     .titulo {
-        font-size: 2rem;
+        font-size: 2.5rem;
         text-align: center;
     }
 
